@@ -3,7 +3,7 @@
 ## Olá, bem vindo(a) ao meu perfil!
   
 </div>
-<br>
+
 <div align="center" style="display: inline_block">
   <a href="https://github.com/henriqueagustini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueagustini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
