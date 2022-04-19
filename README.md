@@ -1,12 +1,13 @@
 <div align="center">
 
-## Olá, bem vindo(a) ao meu perfil!
+## Olá, bem vindo(a) ao meu perfil! Olá, bem vindo(a) ao meu perfil! Olá, bem vindo(a) ao meu perfil! Olá, bem vindo(a) ao meu perfil!
   
 </div>
 
-<div align="center" display: "flex">
+<div align="center">
   <a href="https://github.com/henriqueagustini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueagustini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <b>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueagustini&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
